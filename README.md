@@ -1,0 +1,2 @@
+# ReceitasApp
+Aplicação Receitas Flutter
